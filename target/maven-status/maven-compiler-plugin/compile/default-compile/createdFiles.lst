@@ -1,2 +1,4 @@
-test\Main.class
+test\GetCollections.class
+test\GetProducts.class
+test\Collection.class
 test\Product.class
